@@ -1,1 +1,1 @@
-Exercicio incompleto, possui as dependencias do PostgreSQL nas configurações do maven porem apenas o item 4 do enunciado foi cumprido possuindo assim apenas a classe principal sem as demais funções.
+Inclui codigo (incompleto) utilizado no exercicio individual 2 e 3 devido a reutilização do CRUD.
